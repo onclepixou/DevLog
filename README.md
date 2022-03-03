@@ -10,3 +10,5 @@
 
 >>These1Page/update_3_3_22.md : exercice recommandé par Jean Christophe pour formaliser ce que je veux faire en thèse. Je ferai des updates réguliers
 
+>>Technique/Standard_IEEE_1788/ Les 2 standards 1788 (2015 et la revision mineure de 2017)
+
